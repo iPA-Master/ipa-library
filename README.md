@@ -11,7 +11,11 @@ Welcome to 'iPA Master,' your go-to destination for a curated collection of jail
 
 Introducing Senipa, the unparalleled freemium IPA library designed exclusively for iOS users who demand excellence and security. Senipa stands as a beacon of innovation, offering a curated collection of premium apps and services tailored to enhance your iOS experience.
 
-![image](https://github.com/iPA-Master/ipa-library/assets/158279882/90d70db5-a2bf-480a-925c-93a07faa3f1f)
+<p align="center">
+    <a href="https://fwuf.in/#/esign://addsource?url=https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps_esign.json">
+    <img src="https://img.shields.io/badge/Add%20repo%20to%20ESign-%20blue?style=for-the-badge&color=1e90ff" alt="Get SenIPA">
+  </a>
+</p>
 
 
 🌐 Exclusive Freemium Access: Senipa opens the doors to a world of premium applications, normally accessible through paid channels, now available to you for free. Enjoy a vast selection of high-quality apps without breaking the bank.
