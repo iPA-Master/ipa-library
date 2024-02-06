@@ -13,7 +13,8 @@ Introducing Senipa, the unparalleled freemium IPA library designed exclusively f
 
 <div align="center">
 
-[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/iPA-Master/ipa-library/archive/HEAD.zip" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Download</a>
 
 </div>
 
