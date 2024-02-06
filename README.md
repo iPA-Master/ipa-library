@@ -9,6 +9,9 @@
 
 Introducing Senipa, the unparalleled freemium IPA library designed exclusively for iOS users who demand excellence and security. Senipa stands as a beacon of innovation, offering a curated collection of premium apps and services tailored to enhance your iOS experience.
 
+![image](https://github.com/iPA-Master/ipa-library/assets/158279882/1dbe60e4-90b3-4eee-9374-fb209da4810a)
+
+
 🌐 Exclusive Freemium Access: Senipa opens the doors to a world of premium applications, normally accessible through paid channels, now available to you for free. Enjoy a vast selection of high-quality apps without breaking the bank.
 
 🔒 Unmatched Security: Your privacy is our top priority. Senipa guarantees 100% secure access to its extensive library, ensuring that your personal information and device integrity remain safeguarded. Rest easy, knowing that your iOS experience is protected with state-of-the-art security measures.
