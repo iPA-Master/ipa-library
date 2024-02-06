@@ -13,7 +13,7 @@ Introducing Senipa, the unparalleled freemium IPA library designed exclusively f
 
 <p align="center">
     <a href="https://fwuf.in/#/esign://addsource?url=https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps_esign.json">
-    <img src="https://img.shields.io/badge/Add%20repo%20to%20ESign-%20blue?style=for-the-badge&color=1e90ff" alt="Get SenIPA">
+    <img src="https://img.shields.io/badge/Get%20SenIPA" alt="Get SenIPA">
   </a>
 </p>
 
