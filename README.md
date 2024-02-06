@@ -13,7 +13,7 @@ Introducing Senipa, the unparalleled freemium IPA library designed exclusively f
 
 <div align="center">
 
-[![Get - SenIPA](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
 
 </div>
 
