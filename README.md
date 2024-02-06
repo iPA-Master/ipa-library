@@ -32,3 +32,6 @@ Introducing Senipa, the unparalleled freemium IPA library designed exclusively f
 👥 Community Support: Join a thriving community of Senipa users to share tips, recommendations, and insights. Connect with fellow iOS enthusiasts and make the most out of your Senipa experience.
 
 Elevate your iOS journey with Senipa – where exclusivity, security, and innovation converge to redefine your app experience. Download now and unlock a world of possibilities on your iOS device like never before.
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
