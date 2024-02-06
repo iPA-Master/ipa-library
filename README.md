@@ -12,9 +12,9 @@ Welcome to 'iPA Master,' your go-to destination for a curated collection of jail
 Introducing Senipa, the unparalleled freemium IPA library designed exclusively for iOS users who demand excellence and security. Senipa stands as a beacon of innovation, offering a curated collection of premium apps and services tailored to enhance your iOS experience.
 
 <p align="center">
-   <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-
-  </a>
+  <a href="#" class="button">Post comment (link)</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button>
 </p>
 
 
