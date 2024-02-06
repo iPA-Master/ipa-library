@@ -11,9 +11,11 @@ Welcome to 'iPA Master,' your go-to destination for a curated collection of jail
 
 Introducing Senipa, the unparalleled freemium IPA library designed exclusively for iOS users who demand excellence and security. Senipa stands as a beacon of innovation, offering a curated collection of premium apps and services tailored to enhance your iOS experience.
 
-<p align="center">
- [Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
-</p>
+<div align="center">
+
+[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+
+</div>
 
 
 🌐 Exclusive Freemium Access: Senipa opens the doors to a world of premium applications, normally accessible through paid channels, now available to you for free. Enjoy a vast selection of high-quality apps without breaking the bank.
