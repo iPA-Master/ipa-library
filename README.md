@@ -3,4 +3,6 @@
 
 **Welcome to 'iPA Master,' your go-to destination for a curated collection of jailbreak IPAs tailored for the latest iOS devices and versions. With just a simple touch, users can unlock a world of possibilities, fulfilling all their needs and desires. Explore the power of customization and take control of your device with 'iPA Master.'
 
-<h2>01. SenIPA Library</h2>h2>
+<hr>
+
+<h2>01. SenIPA Library</h2>
