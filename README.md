@@ -3,7 +3,7 @@
 
 Welcome to 'iPA Master,' your go-to destination for a curated collection of jailbreak IPAs tailored for the latest iOS devices and versions. With just a simple touch, users can unlock a world of possibilities, fulfilling all their needs and desires. Explore the power of customization and take control of your device with 'iPA Master.'
 
-![image](https://github.com/iPA-Master/ipa-library/blob/main/ipa-master-banner.png)
+![image](https://github.com/iPA-Master/ipa-library/blob/main/ipa-master-banner-image.png)
 
 <hr>
 
