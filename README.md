@@ -23,7 +23,7 @@ Introducing Senipa, the unparalleled freemium IPA library designed exclusively f
 </div>
 <br>
 
-### <u>Features of SenIPA Library</u>
+### Features of SenIPA Library
 
 🌐 Exclusive Freemium Access: Senipa opens the doors to a world of premium applications, normally accessible through paid channels, now available to you for free. Enjoy a vast selection of high-quality apps without breaking the bank.
 
