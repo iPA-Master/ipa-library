@@ -17,7 +17,7 @@ Introducing Senipa, the unparalleled freemium IPA library designed exclusively f
 ![image](https://github.com/iPA-Master/ipa-library/assets/158279882/e847bf26-8d67-4803-a88c-525f6ca241b1)
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/iPA-Master/ipa-library/archive/HEAD.zip" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install SenIPA Library</a>
+<a class="github-button" href="https://senumy.com/install/senipa/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install SenIPA Library</a>
 
 </div>
 
@@ -44,7 +44,14 @@ Senumy IPA Library is a vast collection of iOS apps. It's one of the largest IPA
 
 Whether you're into entertainment, productivity, or unique tweaks, Senumy has it all. thier user-friendly interface makes exploring and downloading apps a breeze. Trust Senumy for a secure and diverse selection of high-quality IPA files, making it the ideal choice for iOS users looking for simplicity and safety in one place.
 
+
+<div align="center">
+
+
 ![image](https://github.com/iPA-Master/ipa-library/assets/158279882/d1dd8328-5290-421b-8dea-b4dafbe812b1)
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://senumy.com/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Senumy IPA Library</a>
 
+</div>
 <!-- Place this tag in your head or just before your close body tag. -->
