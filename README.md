@@ -171,4 +171,37 @@ Ready to take your iOS to the next level? zJailbreak – where the fun begins!
 🤝  Community of Enthusiasts: Join millions of satisfied users who embrace the freedom and creativity zJailbreak offers.
 
 <hr>
+
+<h2>05. Cydia2 Store</h2>
+
+Welcome to Cydia2 Store – where your iOS experience goes beyond the ordinary! It's not just an IPA library; it's your key to the best signed and unsigned IPAs from Cydia. For a seamless installation on iOS 16.5.1 or below, follow the simple method: Jailbreak your device and add AppSync.
+
+Customize your iPhone like never before – break free from Apple's limits! Cydia2 Store makes it easy with a curated selection of apps that go beyond the App Store. Say goodbye to restrictions and hello to a personalized iOS. Ready to take control? Cydia2 Store is here to transform your device effortlessly. Unleash the power of jailbreaking and AppSync – your iOS, your way!
+
+<div align="center">
+
+![image](https://github.com/iPA-Master/ipa-library/assets/158279882/649905c3-413c-4c73-b7da-50f10663db31)
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://senumy.com/install/zignee/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Cydia2 Store</a>
+
+</div>
+
+📦Vast IPA Collection : Explore a diverse array of signed and unsigned IPAs from Cydia, curated for an enhanced iOS experience.
+
+🔓 Jailbreak Integration : Seamlessly integrates with your jailbroken device, unlocking the full potential for customization.
+
+🔄 AppSync Compatibility : Compatible with AppSync for a smooth and recommended method of IPA file installations on iOS 16.5.1 or below.
+
+📱 Simple User Interface : User-friendly interface ensures easy navigation, making customization accessible for all users.
+
+🚀 Beyond App Store Limits : Break free from Apple's restrictions and explore apps that go beyond the conventional App Store offerings.
+
+⚙️ Effortless Installation : Streamlined processes for installing IPAs, making the customization journey hassle-free for users.
+
+🔄 Continuous Updates : Stay current with regular updates, ensuring access to the latest apps and features within the Cydia2 Store.
+
+🤝 Community Support : Connect with a vibrant community of users, sharing tips, tricks, and recommendations for maximizing your iOS customization experience.
+
+<hr>
 <!-- Place this tag in your head or just before your close body tag. -->
