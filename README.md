@@ -52,11 +52,11 @@ Whether you're into entertainment, productivity, or unique tweaks, Senumy has it
 ![image](https://github.com/iPA-Master/ipa-library/assets/158279882/d1dd8328-5290-421b-8dea-b4dafbe812b1)
 
 <!-- Place this tag where you want the button to render. -->
-📥 <a class="github-button" href="https://senumy.com/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Senumy IPA Library</a> 📥
+📥 <a class="github-button" href="https://senumy.com/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install Senumy IPA Library</b></a> 📥
 
 
 </div>
-
+<br>
 🌐 Extensive Collection: Senumy IPA Library boasts one of the most extensive collections of IPA files for iOS users, covering a wide range of applications and utilities.
 
 🔒 Security Assurance: Senumy prioritizes user safety by manually scanning all IPA files for potential security issues, ensuring a secure and risk-free experience for users.
@@ -83,11 +83,11 @@ Zentify is the latest IPA library exclusively designed for iOS gamers. Dive into
 
 
 <!-- Place this tag where you want the button to render. -->
-📥 <a class="github-button" href="https://senumy.com/install/zentify/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Zentify Game Library</a> 📥
+📥 <a class="github-button" href="https://senumy.com/install/zentify/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install Zentify Game Library</b></a> 📥
 
 
 </div>
-
+<br>
 🎮 Game-Centric Focus: Zentify exclusively caters to gamers, providing a dedicated and comprehensive collection of iOS games.
 
 🌐 User-Friendly Interface: The platform boasts a straightforward and easy-to-navigate interface, ensuring a hassle-free experience for users discovering and downloading games.
@@ -120,11 +120,11 @@ Discover a new level of app exploration with Zignee Library! Our exclusive IPA c
 ![image](https://github.com/iPA-Master/ipa-library/assets/158279882/655eecf4-be71-474e-9589-461e990325a5)
 
 <!-- Place this tag where you want the button to render. -->
-📥 <a class="github-button" href="https://senumy.com/install/zignee/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Zignee Library</a> 📥
+📥 <a class="github-button" href="https://senumy.com/install/zignee/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install Zignee Library</b></a> 📥
 
 
 </div>
-
+<br>
 🚀 Exclusive Selection: Explore a curated collection of unique IPA files.
 
 🔄 Continuous Updates: Stay current with regularly added new and exciting IPAs.
@@ -154,11 +154,11 @@ Ready to take your iOS to the next level? zJailbreak – where the fun begins!
 ![image](https://github.com/iPA-Master/ipa-library/assets/158279882/a7db3b11-9aaa-4af3-b1bf-6ac4eb3f8133)
 
 <!-- Place this tag where you want the button to render. -->
-📥 <a class="github-button" href="https://senumy.com/install/zignee/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install zJailbreak Store</a> 📥
+📥 <a class="github-button" href="https://senumy.com/install/zignee/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install zJailbreak Store</b></a> 📥
 
 
 </div>
-
+<br>
 🌐 User-Friendly Interface: Intuitive and easy-to-navigate platform for a seamless experience.
 
 📲 Abundance of IPAs: Explore a rich collection of IPAs, offering a diverse range of third-party apps.
@@ -188,11 +188,11 @@ Customize your iPhone like never before – break free from Apple's limits! Cydi
 ![image](https://github.com/iPA-Master/ipa-library/assets/158279882/649905c3-413c-4c73-b7da-50f10663db31)
 
 <!-- Place this tag where you want the button to render. -->
-📥 <a class="github-button" href="https://senumy.com/install/cydia2/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Cydia2 Store</a> 📥
+📥 <a class="github-button" href="https://senumy.com/install/cydia2/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install Cydia2 Store</b></a> 📥
 
 
 </div>
-
+<br>
 📦Vast IPA Collection : Explore a diverse array of signed and unsigned IPAs from Cydia, curated for an enhanced iOS experience.
 
 🔓 Jailbreak Integration : Seamlessly integrates with your jailbroken device, unlocking the full potential for customization.
@@ -221,11 +221,11 @@ Unlock a world of possibilities with Velixa IPA Library – your ultimate hub fo
 
 
 <!-- Place this tag where you want the button to render. -->
-📥 <a class="github-button" href="https://senumy.com/install/velixa/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Velixa iPA Library</a> 📥
+📥 <a class="github-button" href="https://senumy.com/install/velixa/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install Velixa iPA Library</b></a> 📥
 
 
 </div>
-
+<br>
 
 🎨 Customization: Unleash the full potential of your device with unique and personalized applications.
 
@@ -252,11 +252,11 @@ Unlock the full potential of your iPhone and iPad with JBIPAs Store, the brand-n
 ![image](https://github.com/iPA-Master/ipa-library/assets/158279882/83423fb6-c072-4839-a59d-586bebcc0da8)
 
 <!-- Place this tag where you want the button to render. -->
-📥 <a class="github-button" href="https://senumy.com/install/jbipas/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install JBIPAs Store</a> 📥
+📥 <a class="github-button" href="https://senumy.com/install/jbipas/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install JBIPAs Store</b></a> 📥
 
 
 </div>
-
+<br>
 
 🚀 Stay Ahead with iOS 17.0 Compatibility: JBIPAs Store ensures that you're always at the forefront of technology by providing seamless support for the latest iOS 17.0 update. Enjoy the newest features and enhancements without any restrictions.
 
@@ -283,11 +283,11 @@ Quorix IPA Library stands as the premier destination for enthusiasts seeking a d
 ![image](https://github.com/iPA-Master/ipa-library/assets/158279882/602347c3-0b3f-48d1-8b64-3974e3ed2cdb)
 
 <!-- Place this tag where you want the button to render. -->
-📥 <a class="github-button" href="https://senumy.com/install/quorix/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Quorix IPA Library</a> 📥
+📥 <a class="github-button" href="https://senumy.com/install/quorix/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install Quorix IPA Library</b></a> 📥
 
 
 </div>
-
+<br>
 
 🌐 TrollStore Exclusive : The library is dedicated to hosting tweaks, apps, and themes developed within the TrollStore ecosystem.
 
@@ -318,11 +318,11 @@ Meet Nexara, your go-to destination for the latest and greatest KFD IPAs, packed
 ![image](https://github.com/iPA-Master/ipa-library/assets/158279882/e3f39f3f-f148-4308-b496-fc05f62283a7)
 
 <!-- Place this tag where you want the button to render. -->
-📥 <a class="github-button" href="https://senumy.com/install/nexara/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Nexara IPA Library</a> 📥
+📥 <a class="github-button" href="https://senumy.com/install/nexara/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install Nexara IPA Library</b></a> 📥
 
 
 </div>
-
+<br>
 🌐 User-Friendly Interface: Nexara's easy navigation ensures a hassle-free journey as you explore and personalize your device.
 
 🤝 Diverse Choices: Choose from a diverse range of IPAs catering to different tastes, needs, and preferences.
