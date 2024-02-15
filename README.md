@@ -215,13 +215,10 @@ Unlock a world of possibilities with Velixa IPA Library – your ultimate hub fo
 
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://senumy.com/install/cydia2/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Velixa iPA Library</a>
+<a class="github-button" href="https://senumy.com/install/velixa/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Velixa iPA Library</a>
 
 </div>
 
-Regular and TrollStore IPAs: Explore both Regular and TrollStore IPAs, providing options for standard and modified applications.
-
-🚀 Sideloading Library: Enjoy the freedom to sideload apps easily, expanding your iOS experience beyond the official App Store.
 
 🎨 Customization: Unleash the full potential of your device with unique and personalized applications.
 
