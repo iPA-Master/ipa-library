@@ -172,7 +172,7 @@ Ready to take your iOS to the next level? zJailbreak – where the fun begins!
 
 <hr>
 
-<h2>05. Cydia2 Store</h2>
+<h2>06. Cydia2 Store</h2>
 
 Welcome to Cydia2 Store – where your iOS experience goes beyond the ordinary! It's not just an IPA library; it's your key to the best signed and unsigned IPAs from Cydia. For a seamless installation on iOS 16.5.1 or below, follow the simple method: Jailbreak your device and add AppSync.
 
@@ -202,6 +202,40 @@ Customize your iPhone like never before – break free from Apple's limits! Cydi
 🔄 Continuous Updates : Stay current with regular updates, ensuring access to the latest apps and features within the Cydia2 Store.
 
 🤝 Community Support : Connect with a vibrant community of users, sharing tips, tricks, and recommendations for maximizing your iOS customization experience.
+
+<hr>
+
+<h2>07. Velixa iPA Library</h2>
+
+Unlock a world of possibilities with Velixa IPA Library – your ultimate hub for a diverse collection of iOS apps! Explore beyond the App Store with our curated selection of Regular and TrollStore IPA files. Easy sideloading ensures quick installation, giving you instant access to a range of unique and enhanced applications. Elevate your iOS experience effortlessly – Velixa IPA Library, where customization meets simplicity.
+
+<div align="center">
+
+![image](https://github.com/iPA-Master/ipa-library/assets/158279882/654f5a8c-7f70-4282-ab9a-c8a75b36cc0e)
+
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://senumy.com/install/cydia2/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Velixa iPA Library</a>
+
+</div>
+
+Regular and TrollStore IPAs: Explore both Regular and TrollStore IPAs, providing options for standard and modified applications.
+
+🚀 Sideloading Library: Enjoy the freedom to sideload apps easily, expanding your iOS experience beyond the official App Store.
+
+🎨 Customization: Unleash the full potential of your device with unique and personalized applications.
+
+📱 User-Friendly Interface: A seamless and intuitive interface ensures a hassle-free exploration and installation process.
+
+🌟 Innovation: Embrace innovation with exclusive apps, offering features beyond the ordinary.
+
+📥 Quick Installation: Install exciting apps with just a few taps, making the process swift and straightforward.
+
+🔄 Constant Updates: Stay up-to-date with the latest app releases and improvements, ensuring a continuously enriching experience.
+
+🤖 Compatibility: Velixa IPA Library is designed to work seamlessly with various iOS devices, ensuring accessibility for a broad user base.
+
+🌈 Enhanced Experience: Elevate your iOS experience by breaking free from limitations and exploring the extraordinary possibilities Velixa IPA Library has to offer.
 
 <hr>
 <!-- Place this tag in your head or just before your close body tag. -->
