@@ -22,7 +22,7 @@ Introducing Senipa, the unparalleled freemium IPA library designed exclusively f
 
 </div>
 <br>
-
+## Features of SenIPA Library
 🌐 Exclusive Freemium Access: Senipa opens the doors to a world of premium applications, normally accessible through paid channels, now available to you for free. Enjoy a vast selection of high-quality apps without breaking the bank.
 
 🔒 Unmatched Security: Your privacy is our top priority. Senipa guarantees 100% secure access to its extensive library, ensuring that your personal information and device integrity remain safeguarded. Rest easy, knowing that your iOS experience is protected with state-of-the-art security measures.
