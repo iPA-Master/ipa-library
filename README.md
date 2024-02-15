@@ -106,4 +106,32 @@ Zentify is the latest IPA library exclusively designed for iOS gamers. Dive into
 📱 iOS Exclusive: Zentify is tailored specifically for iOS users, optimizing the library for Apple devices, delivering a unique gaming experience for iPhone and iPad users.
 
 <hr>
+
+<h2>04. Zignee Library</h2>
+
+Discover a new level of app exploration with Zignee Library! Our exclusive IPA collection brings you unique files that redefine your digital world. We pride ourselves on keeping things fresh – removing revoked IPAs and adding exciting new ones regularly. Enjoy a secure and reliable experience with Zignee Library. Your go-to destination for cutting-edge IPA files that make your device truly yours!
+
+
+<div align="center">
+
+![image](https://github.com/iPA-Master/ipa-library/assets/158279882/655eecf4-be71-474e-9589-461e990325a5)
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://senumy.com/install/zignee/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Zignee Library</a>
+
+</div>
+
+🚀 Exclusive Selection: Explore a curated collection of unique IPA files.
+
+🔄 Continuous Updates: Stay current with regularly added new and exciting IPAs.
+
+🛡️ Secure Environment: Trust in Zignee's commitment to removing revoked IPA files, ensuring reliability.
+
+🌐 Diverse Applications: From productivity to entertainment, find a wide range of apps for every need.
+
+📈 Cutting-Edge Experience: Elevate your digital world with the latest and most sought-after IPA files.
+
+🔒 Reliable Downloads: Enjoy a hassle-free and secure download experience with Zignee Library.
+
+<hr>
 <!-- Place this tag in your head or just before your close body tag. -->
