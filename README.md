@@ -23,7 +23,7 @@ Introducing Senipa, the unparalleled freemium IPA library designed exclusively f
 </div>
 <br>
 
-## Features of SenIPA Library
+### Features of SenIPA Library
 
 🌐 Exclusive Freemium Access: Senipa opens the doors to a world of premium applications, normally accessible through paid channels, now available to you for free. Enjoy a vast selection of high-quality apps without breaking the bank.
 
@@ -59,6 +59,9 @@ Whether you're into entertainment, productivity, or unique tweaks, Senumy has it
 
 </div>
 <br>
+
+### Features of Senumy IPA Library
+
 🌐 Extensive Collection: Senumy IPA Library boasts one of the most extensive collections of IPA files for iOS users, covering a wide range of applications and utilities.
 
 🔒 Security Assurance: Senumy prioritizes user safety by manually scanning all IPA files for potential security issues, ensuring a secure and risk-free experience for users.
@@ -90,6 +93,9 @@ Zentify is the latest IPA library exclusively designed for iOS gamers. Dive into
 
 </div>
 <br>
+
+### Features of Zentify Game Library
+
 🎮 Game-Centric Focus: Zentify exclusively caters to gamers, providing a dedicated and comprehensive collection of iOS games.
 
 🌐 User-Friendly Interface: The platform boasts a straightforward and easy-to-navigate interface, ensuring a hassle-free experience for users discovering and downloading games.
@@ -127,6 +133,9 @@ Discover a new level of app exploration with Zignee Library! Our exclusive IPA c
 
 </div>
 <br>
+
+### Features of Zignee Library
+
 🚀 Exclusive Selection: Explore a curated collection of unique IPA files.
 
 🔄 Continuous Updates: Stay current with regularly added new and exciting IPAs.
@@ -161,6 +170,9 @@ Ready to take your iOS to the next level? zJailbreak – where the fun begins!
 
 </div>
 <br>
+
+### Features of zJailbreak Store
+
 🌐 User-Friendly Interface: Intuitive and easy-to-navigate platform for a seamless experience.
 
 📲 Abundance of IPAs: Explore a rich collection of IPAs, offering a diverse range of third-party apps.
@@ -195,6 +207,9 @@ Customize your iPhone like never before – break free from Apple's limits! Cydi
 
 </div>
 <br>
+
+### Features of Cydia2 Store
+
 📦Vast IPA Collection : Explore a diverse array of signed and unsigned IPAs from Cydia, curated for an enhanced iOS experience.
 
 🔓 Jailbreak Integration : Seamlessly integrates with your jailbroken device, unlocking the full potential for customization.
@@ -229,6 +244,8 @@ Unlock a world of possibilities with Velixa IPA Library – your ultimate hub fo
 </div>
 <br>
 
+### Features of Velixa iPA Library
+
 🎨 Customization: Unleash the full potential of your device with unique and personalized applications.
 
 📱 User-Friendly Interface: A seamless and intuitive interface ensures a hassle-free exploration and installation process.
@@ -260,6 +277,8 @@ Unlock the full potential of your iPhone and iPad with JBIPAs Store, the brand-n
 </div>
 <br>
 
+### Features of JBIPAs Store
+
 🚀 Stay Ahead with iOS 17.0 Compatibility: JBIPAs Store ensures that you're always at the forefront of technology by providing seamless support for the latest iOS 17.0 update. Enjoy the newest features and enhancements without any restrictions.
 
 🔒 Unleash Powerful Jailbreak Features: Dive into a realm of customization with JBIPAs Store, offering a curated collection of jailbreak features that elevate your device's functionality. From personalized themes to advanced settings, take control of your iOS experience like never before.
@@ -290,6 +309,8 @@ Quorix IPA Library stands as the premier destination for enthusiasts seeking a d
 
 </div>
 <br>
+
+### Features of Quorix IPA Library
 
 🌐 TrollStore Exclusive : The library is dedicated to hosting tweaks, apps, and themes developed within the TrollStore ecosystem.
 
@@ -325,6 +346,9 @@ Meet Nexara, your go-to destination for the latest and greatest KFD IPAs, packed
 
 </div>
 <br>
+
+### Features of Nexara IPA Library
+
 🌐 User-Friendly Interface: Nexara's easy navigation ensures a hassle-free journey as you explore and personalize your device.
 
 🤝 Diverse Choices: Choose from a diverse range of IPAs catering to different tastes, needs, and preferences.
