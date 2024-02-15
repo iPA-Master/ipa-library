@@ -183,7 +183,7 @@ Customize your iPhone like never before – break free from Apple's limits! Cydi
 ![image](https://github.com/iPA-Master/ipa-library/assets/158279882/649905c3-413c-4c73-b7da-50f10663db31)
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://senumy.com/install/zignee/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Cydia2 Store</a>
+<a class="github-button" href="https://senumy.com/install/cydia2/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Cydia2 Store</a>
 
 </div>
 
