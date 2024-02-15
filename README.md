@@ -17,7 +17,7 @@ Introducing Senipa, the unparalleled freemium IPA library designed exclusively f
 ![image](https://github.com/iPA-Master/ipa-library/assets/158279882/e847bf26-8d67-4803-a88c-525f6ca241b1)
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/iPA-Master/ipa-library/archive/HEAD.zip" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Download</a>
+<a class="github-button" href="https://github.com/iPA-Master/ipa-library/archive/HEAD.zip" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install SenIPA Library</a>
 
 </div>
 
