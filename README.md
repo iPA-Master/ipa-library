@@ -235,4 +235,34 @@ Unlock a world of possibilities with Velixa IPA Library – your ultimate hub fo
 🌈 Enhanced Experience: Elevate your iOS experience by breaking free from limitations and exploring the extraordinary possibilities Velixa IPA Library has to offer.
 
 <hr>
+
+<h2>08. JBIPAs Store</h2>
+
+Unlock the full potential of your iPhone and iPad with JBIPAs Store, the brand-new IPA Store catering to the latest iOS 17.0 to iOS 9 versions. Say goodbye to limitations and embrace a world of endless possibilities as you access a collection of exclusive jailbreak features, transforming your iOS experience like never before.
+
+<div align="center">
+
+![image](https://github.com/iPA-Master/ipa-library/assets/158279882/83423fb6-c072-4839-a59d-586bebcc0da8)
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://senumy.com/install/velixa/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install JBIPAs Store</a>
+
+</div>
+
+
+🚀 Stay Ahead with iOS 17.0 Compatibility: JBIPAs Store ensures that you're always at the forefront of technology by providing seamless support for the latest iOS 17.0 update. Enjoy the newest features and enhancements without any restrictions.
+
+🔒 Unleash Powerful Jailbreak Features: Dive into a realm of customization with JBIPAs Store, offering a curated collection of jailbreak features that elevate your device's functionality. From personalized themes to advanced settings, take control of your iOS experience like never before.
+
+🌐 Extensive Compatibility for iPhone and iPad: Whether you own the latest iPhone or an iPad, JBIPAs Store caters to a wide range of iOS devices. Experience jailbreak freedom on your terms, regardless of the model you're using.
+
+🛡️ Secure and Reliable: Your device's security is our top priority. JBIPAs Store ensures a secure and reliable platform for exploring jailbreak features, giving you peace of mind as you enhance your iOS experience.
+
+🔄 Regular Updates for Ongoing Innovation: JBIPAs Store is committed to staying ahead of the curve. Expect regular updates that bring you the latest jailbreak features and optimizations, ensuring a consistently innovative experience.
+
+🌟 User-Friendly Interface: Navigating JBIPAs Store is a breeze, thanks to its user-friendly interface. Discover, download, and implement jailbreak features effortlessly, making customization an enjoyable and accessible journey.
+
+Elevate your iOS experience to new heights with JBIPAs Store – Where innovation meets customization. Unleash the full potential of your iPhone and iPad today!
+
+<hr>
 <!-- Place this tag in your head or just before your close body tag. -->
