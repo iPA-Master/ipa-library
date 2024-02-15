@@ -245,7 +245,7 @@ Unlock the full potential of your iPhone and iPad with JBIPAs Store, the brand-n
 ![image](https://github.com/iPA-Master/ipa-library/assets/158279882/83423fb6-c072-4839-a59d-586bebcc0da8)
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://senumy.com/install/velixa/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install JBIPAs Store</a>
+<a class="github-button" href="https://senumy.com/install/jbipas/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install JBIPAs Store</a>
 
 </div>
 
@@ -265,4 +265,67 @@ Unlock the full potential of your iPhone and iPad with JBIPAs Store, the brand-n
 Elevate your iOS experience to new heights with JBIPAs Store – Where innovation meets customization. Unleash the full potential of your iPhone and iPad today!
 
 <hr>
+
+<h2>09. Quorix IPA Library</h2>
+
+Quorix IPA Library stands as the premier destination for enthusiasts seeking a diverse and innovative collection of tweaks, apps, and themes based on the TrollStore platform. This exclusive repository caters to users who are passionate about customizing and enhancing their digital experiences on various devices.
+
+<div align="center">
+
+![image](https://github.com/iPA-Master/ipa-library/assets/158279882/602347c3-0b3f-48d1-8b64-3974e3ed2cdb)
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://senumy.com/install/quorix/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Quorix IPA Library</a>
+
+</div>
+
+
+🌐 TrollStore Exclusive : The library is dedicated to hosting tweaks, apps, and themes developed within the TrollStore ecosystem.
+
+🛠️ Diverse Tweaks Collection : Offers a wide range of tweaks catering to various customization preferences and system modifications.
+
+🚀 Innovative Apps Showcase : Highlights cutting-edge applications that push the boundaries of functionality and creativity.
+
+🎨 Aesthetic Themes Collection : Provides an extensive array of themes for users to personalize and enhance the visual appeal of their devices.
+
+🖥️ User-Friendly Interface : Navigating the library is intuitive and straightforward, ensuring a seamless user experience.
+
+🤝 Community Engagement : Fosters a sense of community among TrollStore enthusiasts, allowing users to share, discuss, and collaborate.
+
+📦 Exclusive Content Repository : Acts as a one-stop-shop for all things TrollStore-related, offering exclusive and curated content.
+
+🌐 Cutting-Edge Technology Embrace : Emphasizes the utilization of the latest TrollStore-based technologies to provide users with the most advanced tweaks and apps.
+
+⚙️ Regular Updates : Ensures that the library stays current with the latest TrollStore developments, offering users a continuous stream of new and exciting content.
+
+<hr>
+
+<h2>10. Nexara IPA Library</h2>
+
+Meet Nexara, your go-to destination for the latest and greatest KFD IPAs, packed with apps and tweaks to personalize your device. Elevate your experience with a curated selection that caters to your unique style and preferences.
+
+<div align="center">
+
+![image](https://github.com/iPA-Master/ipa-library/assets/158279882/e3f39f3f-f148-4308-b496-fc05f62283a7)
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://senumy.com/install/nexara/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install Nexara IPA Library</a>
+
+</div>
+
+🌐 User-Friendly Interface: Nexara's easy navigation ensures a hassle-free journey as you explore and personalize your device.
+
+🤝 Diverse Choices: Choose from a diverse range of IPAs catering to different tastes, needs, and preferences.
+
+📱 Device Transformation: Transform your device into an extension of your identity, making it uniquely yours with Nexara's exclusive features.
+
+🌟 Exclusive Features: Nexara promises a range of exclusive features, ensuring your digital experience is one-of-a-kind.
+
+🔄 Regular Updates: Stay at the forefront of technology with Nexara's commitment to providing the latest and greatest IPAs.
+
+🔐 Security Assurance: Rest easy knowing that Nexara prioritizes the security and integrity of the apps and tweaks offered.
+
+🌍 Global Access: Nexara provides users worldwide with the opportunity to enhance their digital experience and join the personalization revolution.
+
+
 <!-- Place this tag in your head or just before your close body tag. -->
