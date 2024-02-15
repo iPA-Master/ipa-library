@@ -134,4 +134,41 @@ Discover a new level of app exploration with Zignee Library! Our exclusive IPA c
 🔒 Reliable Downloads: Enjoy a hassle-free and secure download experience with Zignee Library.
 
 <hr>
+
+<h2>05. zJailbreak Store</h2>
+
+zJailbreak is the top-tier third-party app store, offering a bunch of cool IPAs and the best jailbreaks. With over 1.5 million downloads, we're the go-to premium jailbreak app store globally.
+
+At zJailbreak, it's all about simplicity and making your iOS experience awesome. We've got a bunch of IPAs that go beyond what the regular App Store offers. Easy to download, easy to enjoy.
+
+Whether you're into customizing your device or just want to try out some new apps, zJailbreak has what you need. Join the millions who've made us their choice for a premium jailbreak experience.
+
+Ready to take your iOS to the next level? zJailbreak – where the fun begins!
+
+<div align="center">
+
+![image](https://github.com/iPA-Master/ipa-library/assets/158279882/a7db3b11-9aaa-4af3-b1bf-6ac4eb3f8133)
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://senumy.com/install/zignee/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub">Install zJailbreak Store</a>
+
+</div>
+
+🌐 User-Friendly Interface: Intuitive and easy-to-navigate platform for a seamless experience.
+
+📲 Abundance of IPAs: Explore a rich collection of IPAs, offering a diverse range of third-party apps.
+
+💎 Premium Selection: Curated apps and tweaks to enhance your iOS experience.
+
+🔒 Safety First: Prioritizes user security with a trustworthy and secure environment.
+
+🌍 Global Popularity: Over 1.5 million downloads worldwide, making it the most popular premium jailbreak app store.
+
+⚙️ Innovative Tweaks: Discover cutting-edge tweaks to customize and personalize your iOS device.
+
+🚀 Freedom to Explore: Break free from the limitations of the official App Store and explore new possibilities.
+
+🤝  Community of Enthusiasts: Join millions of satisfied users who embrace the freedom and creativity zJailbreak offers.
+
+<hr>
 <!-- Place this tag in your head or just before your close body tag. -->
