@@ -410,7 +410,7 @@ TrollApps IPA Library provides TrollStore users with a different way to get apps
 ![image](https://github.com/iPA-Master/ipa-library/assets/158279882/7e456bd6-601d-49ba-91f2-7df91539183a)
 
 <!-- Place this tag where you want the button to render. -->
-📥 <a class="github-button" href="https://senumy.com/install/nexara/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install TrollApps IPA Library</b></a> 📥
+📥 <a class="github-button" href="https://senumy.com/install/trollapps/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install TrollApps IPA Library</b></a> 📥
 
 
 </div>
@@ -437,7 +437,7 @@ The CoolStore Library acts like a real TrollStore, but it's specifically for app
 ![image](https://github.com/iPA-Master/ipa-library/assets/158279882/45d05624-d0a9-4a97-a379-d69a9f6f488c)
 
 <!-- Place this tag where you want the button to render. -->
-📥 <a class="github-button" href="https://senumy.com/install/nexara/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install CoolStore IPA Library</b></a> 📥
+📥 <a class="github-button" href="https://senumy.com/install/coolstore/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install CoolStore IPA Library</b></a> 📥
 
 
 </div>
