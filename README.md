@@ -399,5 +399,32 @@ Meet Nexara, your go-to destination for the latest and greatest KFD IPAs, packed
 
 🌍 Global Access: Nexara provides users worldwide with the opportunity to enhance their digital experience and join the personalization revolution.
 
+<hr>
+
+<h2>11. TrollApps Library</h2>
+
+TrollApps IPA Library provides TrollStore users with a different way to get apps on their devices. Instead of using the regular iOS App Store, users can download apps directly from repositories and install them through TrollStore. It works smoothly on iOS versions 14.0 to 17.0 and makes it simple to access a range of apps and games stored in repositories as IPA or tIPA files.
+
+<div align="center">
+
+![image](https://github.com/iPA-Master/ipa-library/assets/158279882/7e456bd6-601d-49ba-91f2-7df91539183a)
+
+<!-- Place this tag where you want the button to render. -->
+📥 <a class="github-button" href="https://senumy.com/install/nexara/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install TrollApps IPA Library</b></a> 📥
+
+
+</div>
+<br>
+
+### Features of TrollApps IPA Library
+
+📱 Alternative App Store: TrollApps IPA Library provides TrollStore users with an alternative to the iOS App Store.
+
+🔄 Direct Downloads: Users can directly download apps from repositories and install them within TrollStore.
+
+🔧 Compatibility: Compatible with iOS 14.0 – iOS 17.0, ensuring users across various iOS versions can utilize the library.
+
+🎮 Variety of Apps and Games: Enables easy access to a wide variety of apps and games, enhancing the user experience within TrollStore.
+
 
 <!-- Place this tag in your head or just before your close body tag. -->
