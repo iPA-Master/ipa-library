@@ -1,4 +1,4 @@
-<h1 align="center">Top 10 IPA libraries of the world</h1>
+<h1 align="center">Top 14 IPA libraries of the world</h1>
 <p align="center"><strong>We gives you collection of jailbreak IPA's for iOS. It's your easy go-to for customizing and enhancing your iPhone experience.</strong></p>
 
 Welcome to 'iPA Master,' your go-to destination for a curated collection of jailbreak IPAs tailored for the latest iOS devices and versions. With just a simple touch, users can unlock a world of possibilities, fulfilling all their needs and desires. Explore the power of customization and take control of your device with 'iPA Master.'
@@ -233,7 +233,7 @@ An updated AppList App for repositories offers a variety of IPA ++ apps, games, 
 
 <hr>
 
-<h2>06. Zignee Library</h2>
+<h2>07. Zignee Library</h2>
 
 Discover a new level of app exploration with Zignee Library! Our exclusive IPA collection brings you unique files that redefine your digital world. We pride ourselves on keeping things fresh – removing revoked IPAs and adding exciting new ones regularly. Enjoy a secure and reliable experience with Zignee Library. Your go-to destination for cutting-edge IPA files that make your device truly yours!
 
@@ -265,7 +265,7 @@ Discover a new level of app exploration with Zignee Library! Our exclusive IPA c
 
 <hr>
 
-<h2>07. zJailbreak Store</h2>
+<h2>08. zJailbreak Store</h2>
 
 zJailbreak is the top-tier third-party app store, offering a bunch of cool IPAs and the best jailbreaks. With over 1.5 million downloads, we're the go-to premium jailbreak app store globally.
 
@@ -306,7 +306,7 @@ Ready to take your iOS to the next level? zJailbreak – where the fun begins!
 
 <hr>
 
-<h2>08. Cydia2 Store</h2>
+<h2>09. Cydia2 Store</h2>
 
 Welcome to Cydia2 Store – where your iOS experience goes beyond the ordinary! It's not just an IPA library; it's your key to the best signed and unsigned IPAs from Cydia. For a seamless installation on iOS 16.5.1 or below, follow the simple method: Jailbreak your device and add AppSync.
 
@@ -343,7 +343,7 @@ Customize your iPhone like never before – break free from Apple's limits! Cydi
 
 <hr>
 
-<h2>09. JBIPAs Store</h2>
+<h2>10. JBIPAs Store</h2>
 
 Unlock the full potential of your iPhone and iPad with JBIPAs Store, the brand-new IPA Store catering to the latest iOS 17.0 to iOS 9 versions. Say goodbye to limitations and embrace a world of endless possibilities as you access a collection of exclusive jailbreak features, transforming your iOS experience like never before.
 
@@ -376,7 +376,7 @@ Elevate your iOS experience to new heights with JBIPAs Store – Where innovatio
 
 <hr>
 
-<h2>10. Quorix IPA Library</h2>
+<h2>11. Quorix IPA Library</h2>
 
 Quorix IPA Library stands as the premier destination for enthusiasts seeking a diverse and innovative collection of tweaks, apps, and themes based on the TrollStore platform. This exclusive repository caters to users who are passionate about customizing and enhancing their digital experiences on various devices.
 
@@ -413,7 +413,7 @@ Quorix IPA Library stands as the premier destination for enthusiasts seeking a d
 
 <hr>
 
-<h2>11. Nexara IPA Library</h2>
+<h2>12. Nexara IPA Library</h2>
 
 Meet Nexara, your go-to destination for the latest and greatest KFD IPAs, packed with apps and tweaks to personalize your device. Elevate your experience with a curated selection that caters to your unique style and preferences.
 
@@ -446,7 +446,7 @@ Meet Nexara, your go-to destination for the latest and greatest KFD IPAs, packed
 
 <hr>
 
-<h2>12. TrollApps Library</h2>
+<h2>13. TrollApps Library</h2>
 
 TrollApps IPA Library provides TrollStore users with a different way to get apps on their devices. Instead of using the regular iOS App Store, users can download apps directly from repositories and install them through TrollStore. It works smoothly on iOS versions 14.0 to 17.0 and makes it simple to access a range of apps and games stored in repositories as IPA or tIPA files.
 
@@ -473,7 +473,7 @@ TrollApps IPA Library provides TrollStore users with a different way to get apps
 
 <br>
 
-<h2>13. CoolStore Library</h2>
+<h2>14. CoolStore Library</h2>
 
 The CoolStore Library acts like a real TrollStore, but it's specifically for apps that need an IPA installer for sideloading. It's best to use TrollStore or TrollStore 2 for installing apps to make sure they work well and run smoothly. CoolStore Library works on all devices running iOS 14 to iOS 17.x, providing support across a wide range of devices.
 
