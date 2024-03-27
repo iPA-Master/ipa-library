@@ -56,6 +56,8 @@ Whether you're into entertainment, productivity, or unique tweaks, Senumy has it
 <!-- Place this tag where you want the button to render. -->
 📥 <a class="github-button" href="https://senumy.com/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install Senumy IPA Library</b></a> 📥
 
+[ ▸ ] <a class="github-button" href="https://youtu.be/f_PB5tT__lo?si=iwakpStsmVp8l-eQ" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Watch Video</b></a>
+
 
 </div>
 <br>
@@ -89,6 +91,8 @@ Zentify is the latest IPA library exclusively designed for iOS gamers. Dive into
 
 <!-- Place this tag where you want the button to render. -->
 📥 <a class="github-button" href="https://senumy.com/install/zentify/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install Zentify Game Library</b></a> 📥
+
+[ ▸ ] <a class="github-button" href="https://youtu.be/fqaLFZkxMfI?si=lVxEdZ2rvOT2P_EF" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Watch Video</b></a>
 
 
 </div>
@@ -130,6 +134,8 @@ Get Emula Library on your iPhone or iPad without any restriction. You can play g
 <!-- Place this tag where you want the button to render. -->
 📥 <a class="github-button" href="https://senumy.com/install/Emula/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install Emula Library</b></a> 📥
 
+[ ▸ ] <a class="github-button" href="https://youtu.be/1r7zbKrDmj8?si=lOcb5i2EKj3shy5f" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Watch Video</b></a>
+
 
 </div>
 <br>
@@ -166,6 +172,8 @@ Unlock a world of possibilities with Velixa IPA Library – your ultimate hub fo
 <!-- Place this tag where you want the button to render. -->
 📥 <a class="github-button" href="https://senumy.com/install/velixa/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install Velixa iPA Library</b></a> 📥
 
+[ ▸ ] <a class="github-button" href="https://youtu.be/H0LswutXpo0?si=fbpuaPPPFOE3Vr0r" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Watch Video</b></a>
+
 
 </div>
 <br>
@@ -201,7 +209,7 @@ An updated AppList App for repositories offers a variety of IPA ++ apps, games, 
 <!-- Place this tag where you want the button to render. -->
 📥 <a class="github-button" href="https://senumy.com/install/altlist/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install AltList Library</b></a> 📥
 
-🎥 <a class="github-button" href="https://senumy.com/install/altlist/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Watch Video</b></a>
+[ ▸ ] <a class="github-button" href="https://youtu.be/osBw5phqG4M?si=W2DSlMjXhDkXPmOV" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Watch Video</b></a>
 
 
 </div>
