@@ -198,7 +198,7 @@ Unlock a world of possibilities with Velixa IPA Library – your ultimate hub fo
 
 <h2>06. AltList Library</h2>
 
-An updated AppList App for repositories offers a variety of IPA ++ apps, games, and tweaks alternatives. It allows you to browse, download, or install iOS apps from your preferred sources, supporting iOS 14 and extending to the newest iOS 17 versions on both iPhone and iPad devices.
+An updated AppList App for <a href="https://senumy.com/ipa-library/altlist-app-and-repositories/"><u>repositories</u></a> offers a variety of IPA ++ apps, games, and tweaks alternatives. It allows you to browse, download, or install iOS apps from your preferred sources, supporting iOS 14 and extending to the newest iOS 17 versions on both iPhone and iPad devices.
 
 
 <div align="center">
