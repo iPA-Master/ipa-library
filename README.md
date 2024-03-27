@@ -188,6 +188,51 @@ Unlock a world of possibilities with Velixa IPA Library – your ultimate hub fo
 
 <hr>
 
+<h2>06. AltList Library</h2>
+
+An updated AppList App for repositories offers a variety of IPA ++ apps, games, and tweaks alternatives. It allows you to browse, download, or install iOS apps from your preferred sources, supporting iOS 14 and extending to the newest iOS 17 versions on both iPhone and iPad devices.
+
+
+<div align="center">
+
+![image](https://github.com/iPA-Master/ipa-library/assets/158279882/6f57dcd2-1ccc-4558-a788-ffea5ca7a0ff)
+
+
+<!-- Place this tag where you want the button to render. -->
+📥 <a class="github-button" href="https://senumy.com/install/altlist/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install AltList Library</b></a> 📥
+
+
+</div>
+<br>
+
+### Features of AltList Library
+
+🔍 Browse: Explore a wide range of IPA ++ apps, games, and tweaks alternatives.
+
+⬇️ Download: Easily download iOS apps from your favorite sources.
+
+💻 Install: simply install apps on your iPhone or iPad device.
+
+📱 Compatibility: Supports iOS 14 and latest iOS 17 versions.
+
+🔄 Updates: Stay updated with the latest app releases and versions.
+
+🎮 Gaming: Discover and download exciting games for entertainment.
+
+🎨 Themes: Customize your device with a variety of themes and tweaks.
+
+🔒 Security: Ensures safety and security while installing apps.
+
+🌐 Sources: Access apps from trusted repositories and sources.
+
+📈 Performance: Enjoy smooth performance and reliability while browsing and downloading apps.
+
+🌟 User-friendly: simple interface for easy navigation and usage.
+
+📱 Device support: Compatible with both iPhone and iPad devices.
+
+<hr>
+
 <h2>06. Zignee Library</h2>
 
 Discover a new level of app exploration with Zignee Library! Our exclusive IPA collection brings you unique files that redefine your digital world. We pride ourselves on keeping things fresh – removing revoked IPAs and adding exciting new ones regularly. Enjoy a secure and reliable experience with Zignee Library. Your go-to destination for cutting-edge IPA files that make your device truly yours!
