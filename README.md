@@ -201,6 +201,8 @@ An updated AppList App for repositories offers a variety of IPA ++ apps, games, 
 <!-- Place this tag where you want the button to render. -->
 📥 <a class="github-button" href="https://senumy.com/install/altlist/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Install AltList Library</b></a> 📥
 
+🎥 <a class="github-button" href="https://senumy.com/install/altlist/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download iPA-Master/ipa-library on GitHub"><b>Watch Video</b></a>
+
 
 </div>
 <br>
